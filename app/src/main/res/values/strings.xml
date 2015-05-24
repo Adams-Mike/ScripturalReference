@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lesson04</string>
+    <string name="title_activity_main">Activity1</string>
+    <string name="action_settings">Settings</string>
+    <string name="bookText">Book</string>
+    <string name="chapterText">Chapter</string>
+    <string name="verseText">Verse</string>
+    <string name="buttonText">Share</string>
+    <string name="title_activity_activity2">Activity2</string>
+    <string name="thingsToDisplay"> </string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
